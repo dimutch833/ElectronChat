@@ -7,3 +7,4 @@ Run a server from https://github.com/dimutch833/SimpleRealtimeChatSocketIO and s
 ```
 npm start
 ```
+Or run compiled binaries https://github.com/dimutch833/ElectronChat/releases/tag/1.0
